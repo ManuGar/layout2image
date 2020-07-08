@@ -8,3 +8,6 @@
 [submodule "lostgans/LostGANs"]
 	path = lostgans/LostGANs
 	url = https://github.com/iVMCL/LostGANs.git
+[submodule "SPADE"]
+	path = SPADE
+	url = https://github.com/NVlabs/SPADE.git
