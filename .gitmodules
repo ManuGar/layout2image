@@ -5,3 +5,6 @@
 [submodule "pix2pix/pix2pixHD"]
 	path = pix2pix/pix2pixHD
 	url = https://github.com/NVIDIA/pix2pixHD
+[submodule "lostgans/LostGANs"]
+	path = lostgans/LostGANs
+	url = https://github.com/iVMCL/LostGANs.git
