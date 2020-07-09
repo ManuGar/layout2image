@@ -10,3 +10,6 @@
 [submodule "clone"]
 	path = clone
 	url = https://github.com/ManuGar/SPADE.git
+[submodule "cocoapi"]
+	path = cocoapi
+	url = https://github.com/ManuGar/cocoapi.git
