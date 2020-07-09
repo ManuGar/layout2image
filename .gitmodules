@@ -11,3 +11,12 @@
 [submodule "SPADE"]
 	path = SPADE
 	url = https://github.com/NVlabs/SPADE.git
+[submodule "LostGANs"]
+	path = LostGANs
+	url = https://github.com/iVMCL/LostGANs.git
+[submodule "pix2pixHD"]
+	path = pix2pixHD
+	url = https://github.com/NVIDIA/pix2pixHD
+[submodule "cocoapi"]
+	path = cocoapi
+	url = https://github.com/cocodataset/cocoapi.git
