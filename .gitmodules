@@ -1,0 +1,12 @@
+[submodule "LostGANs"]
+	path = LostGANs
+	url = https://github.com/ManuGar/LostGANs.git
+[submodule "pix2pixHD"]
+	path = pix2pixHD
+	url = https://github.com/ManuGar/pix2pixHD
+[submodule "SPADE"]
+	path = SPADE
+	url = https://github.com/ManuGar/SPADE.git
+[submodule "clone"]
+	path = clone
+	url = https://github.com/ManuGar/SPADE.git
